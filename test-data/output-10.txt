@@ -1,0 +1,2 @@
+SUCCESS  # Hajó inicializálva
+FAIL  # A teszt során véletlenszerűen meghibásodhat, amit ellenőrizni kell

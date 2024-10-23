@@ -1,0 +1,2 @@
+GT4500,3,0.99,3,0.99  # Létrehoz egy hajót 3 torpedóval mindkét tárban, és 20% meghibásodási rátával
+TORPEDO,SINGLE     # Elsődleges tárból próbál tüzelni, amely meghibásodhat
