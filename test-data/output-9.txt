@@ -1,0 +1,2 @@
+SUCCESS  # Hajó inicializálva
+FAIL     # Elsődleges tár meghibásodott, nem sikerült tüzelni

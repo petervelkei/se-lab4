@@ -1,0 +1,2 @@
+SUCCESS  # Hajó inicializálva
+SUCCESS  # Torpedó kilőve az elsődleges tárból
