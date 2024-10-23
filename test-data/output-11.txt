@@ -1,0 +1,2 @@
+SUCCESS  # Inicializálás sikeres
+Unknown command: 'UNKNOWN_COMMAND'  # Hibás parancs kezelése

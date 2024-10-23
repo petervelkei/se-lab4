@@ -1,0 +1,1 @@
+GT4500,5,0.0,5,0.0,EXTRA  # Túl sok argumentum
