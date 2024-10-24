@@ -21,6 +21,12 @@ public class GT4500 implements SpaceShip {
         this.secondaryTorpedoStore = new TorpedoStore(secondaryCount, secondaryFailRate);
     }
 
+    public GT4500(TorpedoStore primary, TorpedoStore secondary) {
+        this.primaryTorpedoStore = primary;
+        this.secondaryTorpedoStore = secondary;
+    }
+    
+
     public boolean fireLaser(FiringMode firingMode) {
         // TODO not implemented yet
         return false;
