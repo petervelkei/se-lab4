@@ -1,0 +1,2 @@
+GT4500,1,0,3,0  # Létrehoz egy hajót 1 torpedóval az elsődleges tárban és 3-mal a másodlagosban, 50% meghibásodási arány mellett az elsődleges tárban
+TORPEDO,SINGLE  # Elsődleges tárból próbál tüzelni

@@ -1,0 +1,2 @@
+GT4500,0,0,4,0  # Létrehoz egy hajót üres elsődleges tár és 4 torpedóval a másodlagos tárban
+TORPEDO,SINGLE  # Másodlagos tárból próbál tüzelni

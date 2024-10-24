@@ -1,0 +1,2 @@
+GT4500,5,0,0,0  # Létrehoz egy hajót 5 torpedóval az elsődleges tárban és üres másodlagos tárban
+TORPEDO,SINGLE  # Elsődleges tárból egy torpedót lő ki

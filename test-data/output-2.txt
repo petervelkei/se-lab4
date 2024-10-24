@@ -1,0 +1,3 @@
+SUCCESS  # Hajó inicializálva
+SUCCESS  # Elsődleges tárból torpedó kilőve
+SUCCESS  # Másodlagos tárból torpedó kilőve

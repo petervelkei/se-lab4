@@ -1,0 +1,2 @@
+SUCCESS  # Inicializálás sikeres
+Unknown firing mode: 'INVALID_MODE'  # Hibás mód kezelése

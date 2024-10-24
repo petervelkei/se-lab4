@@ -1,0 +1,2 @@
+GT4500,3,0,3,0  # Létrehoz egy hajót 3-3 torpedóval mindkét tárban
+TORPEDO,ALL     # Mindkét tárból egyszerre próbál tüzelni

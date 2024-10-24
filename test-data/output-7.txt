@@ -1,0 +1,2 @@
+SUCCESS  # Hajó inicializálva
+FAIL     # Nincs torpedó, nem sikerült tüzelni
